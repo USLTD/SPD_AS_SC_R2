@@ -1,0 +1,6 @@
+{
+  "name": "VI–III Shift",
+  "description": "Offline shift companion with real-time countdowns, Georgian/English UI, and native AlarmManager notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

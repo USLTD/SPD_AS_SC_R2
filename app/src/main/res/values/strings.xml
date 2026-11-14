@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VI–III Shift</string>
+    <string name="channel_alerts_name">Shift Transition Alerts</string>
+    <string name="channel_alerts_desc">Reminders and exact transition alerts for checkpoints, breaks, briefing, and attention periods.</string>
+    <string name="channel_ongoing_name">Active Shift Status</string>
+    <string name="channel_ongoing_desc">Ongoing status notification displaying your current assignment and next transition time while a shift is active.</string>
+</resources>
